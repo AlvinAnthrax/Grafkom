@@ -1,0 +1,144 @@
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.exe
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.deps.json
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.runtimeconfig.json
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\ref\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.pdb
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Core.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Input.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.AssemblyReference.cache
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfoInputs.cache
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfo.cs
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CoreCompileInputs.cache
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CopyComplete
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\ref\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.pdb
+D:\Semester 4\GrafkomProj\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.genruntimeconfig.cache
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.exe
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.deps.json
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.runtimeconfig.json
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.pdb
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Core.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Input.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.AssemblyReference.cache
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfoInputs.cache
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfo.cs
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CoreCompileInputs.cache
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CopyComplete
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\refint\GrafAsset3d.dll
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.pdb
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.genruntimeconfig.cache
+D:\Semester 4\GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\ref\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.exe
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.deps.json
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.runtimeconfig.json
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\ref\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.pdb
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Core.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Input.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.AssemblyReference.cache
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfoInputs.cache
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfo.cs
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CoreCompileInputs.cache
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CopyComplete
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\ref\GrafAsset3d.dll
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.pdb
+D:\Semester 4\GrafkomProj\UTS GrafKom\GrafAsset3d\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.genruntimeconfig.cache
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.exe
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.deps.json
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.runtimeconfig.json
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\ref\GrafAsset3d.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\GrafAsset3d.pdb
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfoInputs.cache
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.AssemblyInfo.cs
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.csproj.CopyComplete
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\ref\GrafAsset3d.dll
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.pdb
+C:\Kuliah\Semester 4\Grafika Komputer\FINAL PROJECT UTS LAST\GrafAsset3d\GrafAsset3d\obj\Debug\net6.0\GrafAsset3d.genruntimeconfig.cache
